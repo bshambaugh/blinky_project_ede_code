@@ -1,0 +1,321 @@
+(code for sketchfeb19.ino) [0:16]
+
+NMEA data [0:23]
+http://gpsinformation.org/dale/nmea.htm
+
+Basics of UART Communication
+https://circuitbasics.com/basics-uart-communication/
+
+eggtimer rocketry electronic altimeter gps tracker kit
+http://eggtimerrocketry.com
+
+Radio Control Planes, Drones, Cars, FPV, Quadcopters and more - Hobbyking
+https://hobbyking.com
+
+AliExpress - Online Shopping for Popular Electronics, Fashion, Home & Garden, Toys & Sports, Automobiles and More products  - AliExpress
+https://www.aliexpress.com
+
+Jameco Electronics - Electronic Components Distributor
+https://jameco.com
+
+Quectel GNSS L76-L [0:46]
+https://www.quectel.com/product/l76l.htm
+
+HM-TRPW RF Data Link Module_Data Transceiver |HOPERF [0:46]
+https://www.hoperf.com/modules/lora/HM-TRP.html
+
+[0:49] SAM R34/R45 Low Power LoRa Sub-GHz SiP Datasheet 
+http://ww1.microchip.com/downloads/en/DeviceDoc/SAMR34-R35-Low-Power-LoRa-Sub-GHz-SiP-Data-Sheet-DS70005356B.pdf
+
+Cornfield Electronics :: Home
+https://cornfieldelectronics.com/cfe/cfe.main.php
+
+Jameco Electronics - Electronic Components Distributor
+https://jameco.com
+
+[1:25] EdgeLock(TM) SE050: Plug & Trust Secure Element Family – Enhanced IoT security with maximum flexibility | NXP 
+https://www.nxp.com/products/security-and-authentication/authentication/edgelock-se050-plug-trust-secure-element-family-enhanced-iot-security-with-maximum-flexibility:SE050
+
+[1:43] https://github.com/neosarchizo/TinyGPS/blob/master/examples/simple_test/simple_test.ino 
+
+[1:46] (sketch_feb19c.ino)
+
+[1:48] RTL-SDR (RTL2832U) and software defined radio news and projects. Also featuring Airspy, HackRF, FCD, SDRplay and more. 
+https://www.rtl-sdr.com/
+
+[1:51] Welcome to SCARS - W5NOR - SCARS 
+https://w5nor.org/
+
+[1:54] LimeSDR Mini | Crowd Supply 
+https://www.crowdsupply.com/lime-micro/limesdr-mini
+
+[2:12] Home · pothosware/SoapySDR Wiki 
+https://github.com/pothosware/SoapySDR/wiki
+
+Gr-limesdr Plugin for GNURadio - Myriad-RF Wiki
+https://wiki.myriadrf.org/Gr-limesdr_Plugin_for_GNURadio
+
+[2:25] Wikipedia - ISM Band 
+https://en.wikipedia.org/wiki/ISM_band
+
+[2:34]
+https://github.com/HelTecAutomation/ASR650x-Arduino/blob/master/libraries/LoRa/examples/LoRaBasic/pingpong/pingpong.ino
+
+[2:40] DecodingLora - RevSpace 
+https://revspace.nl/DecodingLora
+
+[2:56] Arduino - SimpleWebServerWiFi 
+https://www.arduino.cc/en/Tutorial/SimpleWebServerWiFi
+
+[3:10} (SimpleWebServerWiFi_edit.ino)
+
+[3:17] WiFi Kit 32 - Heltec Automation 
+https://heltec.org/project/wifi-kit-32/
+
+[3:20] Heltec WiFi  LoRa ESP32 pinout 
+https://resource.heltec.cn/download/WiFi_LoRa_32/WIFI_LoRa_32_V2.pdf
+
+[3:25] Contents -- Heltec Automation Docs V0.0.1 documentation 
+https://heltec-automation-docs.readthedocs.io/en/latest/esp32+arduino/quick_start.html
+
+[3:27] Heltec Cube Cell Dev Board Pinout  
+https://resource.heltec.cn/download/CubeCell/HTCC-AB01/HTCC-AB01_PinoutDiagram.pdf
+
+[3:29] CubeCell Series Quick Start -- Heltec Automation Docs V0.0.1 documentation 
+https://heltec-automation-docs.readthedocs.io/en/latest/cubecell/quick_start.html
+
+[3:33] Lacuna -- Low-cost, simple and reliable global connections to sensors and mobile equipment. 
+https://lacuna.space/
+
+[3:38] 337 #LoRa Mesh Communication without Infrastructure: 
+The Meshtastic Project (ESP32, BLE, GPS) -- Andreas Spiess
+https://www.youtube.com/watch?v=TY6m6fS8bxU&t=5m20s
+
+[3:44]
+https://github.com/HelTecAutomation/ASR650x-Arduino/blob/master/libraries/LoRa/examples/LoRaBasic/LoRaSender/LoRaSender.ino
+
+[3:46] (LoRaSender_edit.ino)
+
+[4:01] BH1750 on Debug Board from Heltec Automation
+https://www.aliexpress.com/item/4000197916984.html
+
+[4:06] BH1750 Digital Light Sensor : 6 Steps (with Pictures) - Instructables, By Mohannad Rawashdeh in Circuits > Arduino
+https://www.instructables.com/id/BH1750-Digital-Light-Sensor/
+
+BH1750 Light Sensor Pinout, Features & Datasheet
+https://components101.com/sensors/bh1750-ambient-light-sensor
+
+https://github.com/HelTecAutomation/ASR650x-Arduino/blob/master/libraries/SensorBasic/examples/BH1750/BH1750advanced/BH1750advanced.ino
+
+[4:59] (BH1750test_edit.ino)
+
+[4:59] (upload modification)
+https://github.com/HelTecAutomation/ASR650x-Arduino/blob/master/libraries/SensorBasic/examples/BH1750/BH1750test/BH1750test.ino
+https://github.com/HelTecAutomation/ASR650x-Arduino/blob/master/libraries/LoRa/examples/LoRaBasic/LoRaSender/LoRaSender.ino 
+
+[5:12]
+https://github.com/HelTecAutomation/Heltec_ESP32/blob/master/examples/LoRa/OLED_LoRa_Receiver/OLED_LoRa_Receiver.ino
+
+[5:14] (OLED_LoRa_Reciever_edit.ino)
+
+[5:33] (OLED_LoRa_Receiver_edit_wHelloServer.ino)
+
+[5:34] (upload modification)
+https://github.com/espressif/arduino-esp32/blob/master/libraries/WebServer/examples/HelloServer/HelloServer.ino
+
+[5:47] (insert link to testclass.php) ... ahh ... did not show the SQL schema (one that prevents not null or whatever it was called)
+
+[5:57] Arduino WebSocket Server Using an ESP32 - Shawn Hymel 
+https://shawnhymel.com/1675/arduino-websocket-server-using-an-esp32/
+
+WebSockets - A Conceptual Deep-Dive | Ably Realtime
+https://www.ably.io/concepts/websockets
+
+[6:33] How to Create a Web Server (with WebSockets) Using an ESP32 in Arduino - Shawn Hymel
+https://shawnhymel.com/1882/how-to-create-a-web-server-with-websockets-using-an-esp32-in-arduino/
+
+[6:37] (test-websocket.html code)
+
+[7:01] (websocket_server-local2.ino)
+
+[7:11] Build a Real Time Chat App With Node.js And Socket.io -- Web Dev Simplified
+https://www.youtube.com/watch?v=rxzOqP9YwmM
+
+[7:36] Introduction | Socket.IO
+https://socket.io/docs/#What-Socket-IO-is-not
+
+[8:12] ESP32 Arduino: Websocket client -- techtutorialsx
+https://techtutorialsx.com/2017/11/01/esp32-arduino-websocket-client/
+
+https://github.com/morrissinger/ESP8266-Websocket
+
+ESP32 Arduino: Websocket server --- techtutorialsx [8:19]
+https://techtutorialsx.com/2017/11/03/esp32-arduino-websocket-server/
+
+[8:37]? (techtutorialsfx_ws_server.ino)
+
+?(techtutorialsfx_WS_Server code) [9:29]
+
+[8:24] arduinoWebSockets
+https://github.com/Links2004/arduinoWebSockets
+
+
+Error when trying to create a websocket client on ESP 32 [8:26]
+https://gist.github.com/bshambaugh/9a467a034d086a5809501a41e107131b
+
+[8:35] What It Means When You See the 0.0.0.0 IP Address 
+https://lifewire.com/four-zero-ip-address-818384 
+
+[8:37] (techtutorialsfx_ws_server.ino)
+
+[8:37] ESP32 Arduino: Websocket server --- techtutorialsx [8:19]
+https://techtutorialsx.com/2017/11/03/esp32-arduino-websocket-server/
+(code??)
+
+[9:30] (ESP32_Markus_Websock_Client.ino)
+
+Shop - ESP8266 Shop [9:55]
+https://esp8266-shop.com/
+
+[10:07] Packet Forwarders | The Things Network [10:08]
+https://www.thethingsnetwork.org/docs/gateways/packet-forwarder/ 
+
+iC880A-SPI LoRa® Concentrator - Wireless Solutions
+https://wireless-solutions.de/products/lora/radio-modules/ic880a-spi/
+
+SX1301 | Digital Baseband Chip LoRaWAN macro gateways | Semtech
+https://www.semtech.com/products/wireless-rf/lora-gateways/sx1301
+
+[10:29]
+Single Channel TTN LoRa Gateway and nodes with ESP32 SX1276 - Hackster.io  [10:29]
+https://www.hackster.io/Arn/single-channel-ttn-lora-gateway-and-nodes-with-esp32-sx1276-709612
+
+Single Channel LoRaWAN Gateway
+https://github.com/things4u/ESP-1ch-Gateway
+
+[10:32]
+How To Do Multitasking With Arduino - The Robotics Back-End [10:32]
+https://roboticsbackend.com/how-to-do-multitasking-with-arduino/
+
+Arduino Protothreads [Tutorial] - The Robotics Back-End
+https://roboticsbackend.com/arduino-protothreads-tutorial/
+
+How to "Multithread" an Arduino (Protothreading Tutorial) - Arduino Project Hub
+https://create.arduino.cc/projecthub/reanimationxp/how-to-multithread-an-arduino-protothreading-tutorial-dd2c37
+
+ESP32 Dual Core with Arduino IDE | Random Nerd Tutorials
+https://randomnerdtutorials.com/esp32-dual-core-arduino-ide/
+
+337 #LoRa Mesh Communication without Infrastructure: The Meshtastic Project (ESP32, BLE, GPS) -- Andreas Spiess
+https://www.youtube.com/watch?v=TY6m6fS8bxU
+
+LoRa/LoRaWAN tutorials - Mobilefish.com
+https://www.youtube.com/watch?v=cUhAyyzlv2o&list=PLmL13yqb6OxdeOi97EvI8QeO8o-PqeQ0g
+
+Processing Data from End Devices. (draft exploration)  -- March 29, 2020
+http://raptorlicious.blogspot.com/2020/03/processing-data-from-end-devices-draft.html
+
+[10:35]
+Not touching MQTT for now. Maybe it would be better if I cared about [10:36]
+power consumption 
+https://github.com/imelekhin/LoRatoMQTT
+https://heltec-automation-docs.readthedocs.io/en/latest/general/subscribe_mqtt_messages.html
+https://github.com/eclipse/mosquitto
+https://www.ably.io/concepts/mqtt
+https://esp8266-shop.com/blog/configure-mqtt-runing-on-esp8266-for-home-automation/
+https://github.com/espressif/esp-idf/tree/4fe04f1151c2faf4b034e9c73592fbd443f96b99/examples/protocols/mqtt/ws
+https://randomnerdtutorials.com/esp32-mqtt-publish-subscribe-arduino-ide/
+
+7 Advantages of MQTT protocol for IoT Devices
+https://medium.com/@esperso/7-benefits-of-mqtt-protocol-for-iot-e463f6a97100
+
+MQTT with WebSockets
+https://github.com/tuanpmt/ESP8266MQTTClient
+
+https://github.com/tuielectronics/ESP8266-mqtt-over-websocket
+
+https://github.com/espressif/esp-idf/tree/4fe04f1151c2faf4b034e9c73592fbd443f96b99/examples/protocols/mqtt/ws
+
+https://github.com/hivemq/hivemq-mqtt-web-client
+
+Lightweight MQTT* over UDP with no broker (UDP is lighter than TCP,true MQTT is built with TCP):
+
+https://mqtt-udp.readthedocs.io/en/latest/
+
+MQTT-sn with UDP with a broker
+
+http://www.steves-internet-guide.com/mqtt-sn/
+
+[10:48] (Example1_configuration.ino) 
+
+[10:52]
+SparkFun Cryptographic Co-Processor Breakout - ATECC508A (Qwiic) - DEV-15573 - SparkFun Electronics
+https://www.sparkfun.com/products/15573
+
+[10:53] Product Showcase: SparkFun Cryptographic Co-Processor Breakout 
+https://www.youtube.com/watch?v=_MjjF211BM8
+
+ATECC508A - Crypto Authentication
+https://www.microchip.com/wwwproducts/en/ATECC508A
+
+CryptoAuthLib - Microchip CryptoAuthentication Library
+https://github.com/MicrochipTech/cryptoauthlib/
+
+[10:54] get the cryptochip working [10:54]
+https://gist.github.com/bshambaugh/9ac2db6075c5852b23c8d2b6140b02a8
+
+[11:11] config_atecc508.py 
+https://github.com/ockam-network/ockam/tree/develop/implementations/c
+
+[11:35] Quick reference for the ESP32 
+https://docs.micropython.org/en/latest/esp32/quickref.html
+
+[11:39] Getting started with MicroPython on the ESP32 -- MicroPython 1.12 documentation 
+http://docs.micropython.org/en/latest/esp32/tutorial/intro.html
+
+[11:51] ucryptoauthlib 
+https://github.com/dmazzella/ucryptoauthlib/
+
+[11:58] Espressif IoT Development Framework 
+https://github.com/espressif/esp-idf
+
+[12:12] ATECC508A manufacturer library: 
+https://github.com/MicrochipTech/cryptoauthlib/
+https://github.com/MicrochipTech/cryptoauthtools
+https://github.com/MicrochipTech/cryptoauthtools/blob/03caf6e784f77f74333ae7fde5fae2370ecad68a/python/examples/config.py
+
+[12:14]
+https://github.com/sparkfun/SparkFun_ATECCX08a_Arduino_Library/blob/master/examples/Example1_Configuration/Example1_Configuration.ino [12:15]
+
+[12:31] asymmetric cryptography (public key cryptography) 
+https://searchsecurity.techtarget.com/definition/asymmetric-cryptography
+
+[12:37] SparkFun Cryptographic Co-Processor Breakout - ATECC508A (Qwiic) 
+https://www.sparkfun.com/products/15573
+
+[12:40] ATECC508A Summary Data Sheet
+http://ww1.microchip.com/downloads/en/DeviceDoc/20005928A.pdf 
+
+[12:44] 8bit hex number to binary number 
+https://gist.github.com/bshambaugh/8788cdb6644e235c510dc7cb2f4b3786
+
+[12:52] SparkFun ATECCX08A Arduino Library  
+https://github.com/sparkfun/SparkFun_ATECCX08a_Arduino_Library/compare/master...bshambaugh:master
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
